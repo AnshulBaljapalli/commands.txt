@@ -9,3 +9,6 @@ git reset <hashid from the git log> will reset to the given status of the projec
 
 ADDING REPOSITERIES IN OUR GIT BASH
 command - git remote add origin <URL of the repositary>
+git push origin master - command to push repository
+git remote set-url <REMOTE-NAME> <NEW-URL> - to set new remote and url
+git remote rename <old-name> <new-name> - rename remote name
