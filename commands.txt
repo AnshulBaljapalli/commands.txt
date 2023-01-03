@@ -2,4 +2,10 @@ vi <file name> will add content into the file
 cat <file name> will show the content into the file
 :i to insert something into existing file
 rm -tf <file name> will removes the file
+git log command will show all the commits
+git reset <hashid from the git log> will reset to the given status of the project
 :x to exit vi 
+
+
+ADDING REPOSITERIES IN OUR GIT BASH
+command - git remote add origin <URL of the repositary>
