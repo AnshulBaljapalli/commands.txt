@@ -1,0 +1,4 @@
+cat <file name> will show the content into the file
+:i to insert something into existing file
+vi <file name> will add content into the file
+:x to exit vi 
