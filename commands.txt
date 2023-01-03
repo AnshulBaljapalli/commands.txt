@@ -1,4 +1,5 @@
 vi <file name> will add content into the file
 cat <file name> will show the content into the file
 :i to insert something into existing file
+rm -tf <file name> will removes the file
 :x to exit vi 
