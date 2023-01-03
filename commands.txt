@@ -1,3 +1,7 @@
+GIT STAGING COMMAND - git add <file name> NOTE : if you use "." instead of file name it will stage all the modification
+GIT COMMITING COMMAND -git commit <file name> -m "<message of your change>"
+
+
 vi <file name> will add content into the file
 cat <file name> will show the content into the file
 :i to insert something into existing file
