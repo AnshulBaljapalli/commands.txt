@@ -5,6 +5,7 @@ git restore --staged <file name> - will remove changes from staging
 STASHING :- 
 git stash - will stash all the staged changes so that the history is not saved and we can bring them back once we need
 git stash pop - will bring back all the stashed changes back on staging
+git stash clear - will clear all the stash. we cannot get those changes again
 
 
 
