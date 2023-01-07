@@ -2,7 +2,8 @@ GIT STAGING COMMAND - git add <file name> NOTE : if you use "." instead of file 
 GIT COMMITING COMMAND -git commit <file name> -m "<message of your change>"
 git restore --staged <file name> - will remove changes from staging
 
-STASHING :- git stash - will stash all the staged changes so that the history is not saved and we can bring them back once we need
+STASHING :- 
+git stash - will stash all the staged changes so that the history is not saved and we can bring them back once we need
 git stash pop - will bring back all the stashed changes back on staging
 
 
