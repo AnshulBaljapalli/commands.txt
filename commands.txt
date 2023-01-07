@@ -2,6 +2,9 @@ GIT STAGING COMMAND - git add <file name> NOTE : if you use "." instead of file 
 GIT COMMITING COMMAND -git commit <file name> -m "<message of your change>"
 
 
+touch <file name> - will create the file with the given file name
+ls - will show all the content in files except hidden ones
+ls -a - will show all the hidden files
 vi <file name> will add content into the file
 cat <file name> will show the content into the file
 :i to insert something into existing file
